@@ -1,3 +1,3 @@
 index page
 ==========
-[/docs](about.md)
+[/docs/about](about.md)
