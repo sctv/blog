@@ -13,7 +13,7 @@ Things that atre interesting to me in the coding area:
 
 -- projects that use the above 
  
-  like (DED)[https://github.com/sctv/ded]
+  like [DED](http://github.com/sctv/ded "ded")
   and the captured beach portal 
  
 
