@@ -1,7 +1,7 @@
 ---
 title: SCTV - a code repository for Brian Degger 
 ---
-Things that atre interesting to me in the coding area:
+Things that are interesting to me in the coding area:
 
 -- jekyll and github pages.
 
