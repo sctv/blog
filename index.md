@@ -13,7 +13,8 @@ Things that atre interesting to me in the coding area:
 
 -- projects that use the above 
  
- like DED and the captured beach portal 
+  like [DED] (https://github.com/sctv/ded)
+  and the captured beach portal 
  
 
 
