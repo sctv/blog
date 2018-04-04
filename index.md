@@ -21,4 +21,4 @@ Things that are interesting to me in the coding area:
  
 
 
-[about](about.md)
+[home](http://www.briandegger.co.uk)
