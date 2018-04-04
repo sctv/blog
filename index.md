@@ -13,7 +13,7 @@ Things that are interesting to me in the coding area:
 
 -- [papercraft spectrometer](https://github.com/sctv/papercraft-spectrometer)
 
--- eForth on the [w1209] (https://github.com/TG9541/stm8ef/wiki/Board-W1209)
+-- eForth on the [w1209](https://github.com/TG9541/stm8ef/wiki/Board-W1209)
 
 -- getting programs to run on rPi [sometimes I even have to build them!]
 
