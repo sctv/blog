@@ -3,7 +3,7 @@ title: SCTV
 description: code musings 
 locale: en_GB
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://sctv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://blog.briandegger.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drbrian
 github_username:  sctv
 
