@@ -25,6 +25,6 @@ Things that are interesting to me in the coding area:
   
   and the captured beach portal 
  
-
+A little bit on Maker Space and Makerspaces [Maker Space](https://github.com/sctv/blog/blob/master/makerspace.html)
 
 [home](http://www.briandegger.co.uk)
